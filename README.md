@@ -1,2 +1,2 @@
 # Interactive-3D
-Interactive 3D shapes
+WebGL interactive 3d pyramid.
